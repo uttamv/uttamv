@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @uttamv
-- 👀 I’m interested in Devops, Web Development
-- 🌱 I’m currently learning GraphQl
-- 💞️ I’m looking to collaborate on DevOps
+- 👀 I’m interested insoftware development and Data.
+- 💞️ I’m looking to collaborate on ReactJS
 - 📫 How to reach me uttamvishvakarma612@gmail.com
 
 <!---
